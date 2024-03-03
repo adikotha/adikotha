@@ -89,6 +89,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adikotha/adikotha/output/snake.yml" alt="Snake animation" />
+<img src=".github/.workflows/snake.yml" alt="Snake animation" />
 
 ###
